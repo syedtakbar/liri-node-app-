@@ -1,9 +1,3 @@
-# liri-node-app-
-LIRI (Language Interpretation and Recognition Interface) will be a command line node app that takes in parameters and gives you back data.
-
-# Created: Sep 11 2019
-# Created by: Syed Akbar
-
 - - -
 
 ## ABOUT THE APP
