@@ -1,0 +1,2766 @@
+
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  福岡国際センター                
+                Venue Location:     福岡市
+                Date of the Event:  2019-10-07T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ゼビオアリーナ仙台                
+                Venue Location:     仙台市
+                Date of the Event:  2019-10-12T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  丸善インテックアリーナ大阪（大阪市中央体育館）                
+                Venue Location:     大阪市
+                Date of the Event:  2019-10-15T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  AccorHotels Arena                
+                Venue Location:     Paris
+                Date of the Event:  2019-10-18T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ZENITH D'ORLEANS                
+                Venue Location:     Orleans
+                Date of the Event:  2019-10-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Arkéa Arena                
+                Venue Location:     Floirac
+                Date of the Event:  2019-10-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Nantes Metropole                
+                Venue Location:     Saint-herblain
+                Date of the Event:  2019-10-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Halle Tony Garnier                
+                Venue Location:     Lyon
+                Date of the Event:  2019-10-25T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Arena Lille                
+                Venue Location:     Lille
+                Date of the Event:  2019-10-20T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mercedes-Benz Arena                
+                Venue Location:     Berlin
+                Date of the Event:  2019-10-31T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Daily's Place Amphitheater                
+                Venue Location:     Jacksonville
+                Date of the Event:  2019-11-08T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Seminole Hard Rock Hotel & Casino - Hollywood, FL                
+                Venue Location:     Hollywood
+                Date of the Event:  2019-11-09T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mark G Etess Arena at Hard Rock Hotel & Casino                
+                Venue Location:     Atlantic City
+                Date of the Event:  2019-11-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-27T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-30T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-03T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-05T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-06T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-21T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-28T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-09-02T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Palais Nikaïa                
+                Venue Location:     Nice
+                Date of the Event:  2019-10-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Tauron Arena Krakow                
+                Venue Location:     Kraków
+                Date of the Event:  2019-11-02T18:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Le Summum                
+                Venue Location:     Grenoble
+                Date of the Event:  2019-10-28T20:00:00
+
+                ***********************
+                
+                
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump - 2015 Remaster                                        
+                        Album:              1984 (Remastered)
+                        Artist(s):          Van Halen
+                        Preview song:       https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Around                                        
+                        Album:              House of Pain (Fine Malt Lyrics)
+                        Artist(s):          House Of Pain
+                        Preview song:       https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out The Window                                        
+                        Album:              I Decided.
+                        Artist(s):          Big Sean
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (with Trippie Redd)                                        
+                        Album:              Jump (with Trippie Redd)
+                        Artist(s):          Julia Michaels
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              Totally Krossed Out
+                        Artist(s):          Kris Kross
+                        Preview song:       https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump in the Line                                        
+                        Album:              Jump Up Calypso
+                        Artist(s):          Harry Belafonte
+                        Preview song:       https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Right In                                        
+                        Album:              Uncaged
+                        Artist(s):          Zac Brown Band
+                        Preview song:       https://p.scdn.co/mp3-preview/5d54255cf973098775921d0edb8cb1b731504d6e?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          The Jump Off                                        
+                        Album:              La Bella Mafia
+                        Artist(s):          Lil' Kim
+                        Preview song:       https://p.scdn.co/mp3-preview/933d54d4e3a98dd52db264deb1334ca7dbe06817?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead - From "Aladdin"/Soundtrack Version                                        
+                        Album:              Aladdin Special Edition
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (feat. Gizzle)                                        
+                        Album:              DROGAS Light
+                        Artist(s):          Lupe Fiasco
+                        Preview song:       https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise 2)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Fire! The Very Best of The Pointer Sisters
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/eec1e34e0c9c658541c2dd1063f8c0a3b0322ca2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Break Out
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/d572c4f54c6da296e93eef486b92fff470dd59e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Don't Jump                                        
+                        Album:              Don't Jump
+                        Artist(s):          Mike Stud
+                        Preview song:       https://p.scdn.co/mp3-preview/32d02175e9b3434d8b1e0674a55a426f62f5bcd5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Up, Super Star!                                        
+                        Album:              Jump Up, Super Star!
+                        Artist(s):          VGR
+                        Preview song:       https://p.scdn.co/mp3-preview/974243bb9f12f5a56c1c1a77e9f853ca44b0ac36?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              GO:OD AM
+                        Artist(s):          Mac Miller
+                        Preview song:       https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out the Face (feat. Future)                                        
+                        Album:              Dreams Worth More Than Money
+                        Artist(s):          Meek Mill
+                        Preview song:       https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+            
+            **********MOVIE INFO*********
+            
+            Title:                      Rushmore
+            Release Year:               1998
+            IMDB Rating:                7.7 
+            Rotten Tomatoes Rating:     89%;                         
+            Country of Production:      USA
+            Language:                   English, Spanish, Latin, French
+            Actors:                     Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel
+            Plot:                       The extracurricular king of Rushmore Preparatory School is put on academic probation.
+
+            *****************************
+            
+            
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              The Hits--Chapter One
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way - Reimagined                                        
+                        Album:              I Want It That Way (Reimagined)
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              Poodle Hat
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Punk Goes Pop
+                        Artist(s):          Dynamite Boy
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Under the Covers, Vol. 3
+                        Artist(s):          Jess and Gabriel
+                        Preview song:       https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Steel Panther
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              90 Sweet 90s Hits!
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Bye Bye Bye / I Want It That Way (Glee Cast Version)                                        
+                        Album:              Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                        Artist(s):          Glee Cast
+                        Preview song:       https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Boulevard You
+                        Artist(s):          CaryLamb
+                        Preview song:       https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              NKOTBSB
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Nu Funk
+                        Artist(s):          Scary Pockets
+                        Preview song:       https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Cover Sessions, Vol. 2
+                        Artist(s):          Boyce Avenue
+                        Preview song:       https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Manuel Costa
+                        Preview song:       https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Selfies on Kodachrome
+                        Artist(s):          Scott Bradlee's Postmodern Jukebox
+                        Preview song:       https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              The Essential "Weird Al" Yankovic
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Yshop
+                        Preview song:       https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              #90s Update
+                        Artist(s):          #90s Update
+                        Preview song:       https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Covers Part IV
+                        Artist(s):          Anthem Lights
+                        Preview song:       https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Millennium
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Mick Jensen
+                        Preview song:       https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  福岡国際センター                
+                Venue Location:     福岡市
+                Date of the Event:  2019-10-07T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ゼビオアリーナ仙台                
+                Venue Location:     仙台市
+                Date of the Event:  2019-10-12T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Arena Lille                
+                Venue Location:     Lille
+                Date of the Event:  2019-10-20T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Arkéa Arena                
+                Venue Location:     Floirac
+                Date of the Event:  2019-10-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Nantes Metropole                
+                Venue Location:     Saint-herblain
+                Date of the Event:  2019-10-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ZENITH D'ORLEANS                
+                Venue Location:     Orleans
+                Date of the Event:  2019-10-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Palais Nikaïa                
+                Venue Location:     Nice
+                Date of the Event:  2019-10-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Le Summum                
+                Venue Location:     Grenoble
+                Date of the Event:  2019-10-28T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mercedes-Benz Arena                
+                Venue Location:     Berlin
+                Date of the Event:  2019-10-31T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  AccorHotels Arena                
+                Venue Location:     Paris
+                Date of the Event:  2019-10-18T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Daily's Place Amphitheater                
+                Venue Location:     Jacksonville
+                Date of the Event:  2019-11-08T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Seminole Hard Rock Hotel & Casino - Hollywood, FL                
+                Venue Location:     Hollywood
+                Date of the Event:  2019-11-09T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mark G Etess Arena at Hard Rock Hotel & Casino                
+                Venue Location:     Atlantic City
+                Date of the Event:  2019-11-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-27T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-30T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-03T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-05T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Tauron Arena Krakow                
+                Venue Location:     Kraków
+                Date of the Event:  2019-11-02T18:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-21T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Halle Tony Garnier                
+                Venue Location:     Lyon
+                Date of the Event:  2019-10-25T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-09-02T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  丸善インテックアリーナ大阪（大阪市中央体育館）                
+                Venue Location:     大阪市
+                Date of the Event:  2019-10-15T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-06T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-28T20:00:00
+
+                ***********************
+                
+                
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump - 2015 Remaster                                        
+                        Album:              1984 (Remastered)
+                        Artist(s):          Van Halen
+                        Preview song:       https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Around                                        
+                        Album:              House of Pain (Fine Malt Lyrics)
+                        Artist(s):          House Of Pain
+                        Preview song:       https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out The Window                                        
+                        Album:              I Decided.
+                        Artist(s):          Big Sean
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              Totally Krossed Out
+                        Artist(s):          Kris Kross
+                        Preview song:       https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Right In                                        
+                        Album:              Uncaged
+                        Artist(s):          Zac Brown Band
+                        Preview song:       https://p.scdn.co/mp3-preview/5d54255cf973098775921d0edb8cb1b731504d6e?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          The Jump Off                                        
+                        Album:              La Bella Mafia
+                        Artist(s):          Lil' Kim
+                        Preview song:       https://p.scdn.co/mp3-preview/933d54d4e3a98dd52db264deb1334ca7dbe06817?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead - From "Aladdin"/Soundtrack Version                                        
+                        Album:              Aladdin Special Edition
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out the Face (feat. Future)                                        
+                        Album:              Dreams Worth More Than Money
+                        Artist(s):          Meek Mill
+                        Preview song:       https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              GO:OD AM
+                        Artist(s):          Mac Miller
+                        Preview song:       https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Up, Super Star!                                        
+                        Album:              Jump Up, Super Star!
+                        Artist(s):          VGR
+                        Preview song:       https://p.scdn.co/mp3-preview/974243bb9f12f5a56c1c1a77e9f853ca44b0ac36?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (feat. Gizzle)                                        
+                        Album:              DROGAS Light
+                        Artist(s):          Lupe Fiasco
+                        Preview song:       https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise 2)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Fire! The Very Best of The Pointer Sisters
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/eec1e34e0c9c658541c2dd1063f8c0a3b0322ca2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Break Out
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/d572c4f54c6da296e93eef486b92fff470dd59e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Don't Jump                                        
+                        Album:              Don't Jump
+                        Artist(s):          Mike Stud
+                        Preview song:       https://p.scdn.co/mp3-preview/32d02175e9b3434d8b1e0674a55a426f62f5bcd5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump in the Line                                        
+                        Album:              Jump Up Calypso
+                        Artist(s):          Harry Belafonte
+                        Preview song:       https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (with Trippie Redd)                                        
+                        Album:              Jump (with Trippie Redd)
+                        Artist(s):          Julia Michaels
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+            
+            **********MOVIE INFO*********
+            
+            Title:                      Rushmore
+            Release Year:               1998
+            IMDB Rating:                7.7 
+            Rotten Tomatoes Rating:     89%;                         
+            Country of Production:      USA
+            Language:                   English, Spanish, Latin, French
+            Actors:                     Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel
+            Plot:                       The extracurricular king of Rushmore Preparatory School is put on academic probation.
+
+            *****************************
+            
+            
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              The Hits--Chapter One
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Millennium
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Mick Jensen
+                        Preview song:       https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way - Reimagined                                        
+                        Album:              I Want It That Way (Reimagined)
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Punk Goes Pop
+                        Artist(s):          Dynamite Boy
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Steel Panther
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              90 Sweet 90s Hits!
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Bye Bye Bye / I Want It That Way (Glee Cast Version)                                        
+                        Album:              Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                        Artist(s):          Glee Cast
+                        Preview song:       https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Boulevard You
+                        Artist(s):          CaryLamb
+                        Preview song:       https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              NKOTBSB
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Nu Funk
+                        Artist(s):          Scary Pockets
+                        Preview song:       https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Cover Sessions, Vol. 2
+                        Artist(s):          Boyce Avenue
+                        Preview song:       https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Manuel Costa
+                        Preview song:       https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Selfies on Kodachrome
+                        Artist(s):          Scott Bradlee's Postmodern Jukebox
+                        Preview song:       https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Beautiful Dreams
+                        Artist(s):          Tyler and Mark
+                        Preview song:       https://p.scdn.co/mp3-preview/656b65ce55159249a06da90a98f70018f2fc92f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              The Essential "Weird Al" Yankovic
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Yshop
+                        Preview song:       https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              Poodle Hat
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Covers Part IV
+                        Artist(s):          Anthem Lights
+                        Preview song:       https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Under the Covers, Vol. 3
+                        Artist(s):          Jess and Gabriel
+                        Preview song:       https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              The Hits--Chapter One
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Millennium
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Mick Jensen
+                        Preview song:       https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              Poodle Hat
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Under the Covers, Vol. 3
+                        Artist(s):          Jess and Gabriel
+                        Preview song:       https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Steel Panther
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              90 Sweet 90s Hits!
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Bye Bye Bye / I Want It That Way (Glee Cast Version)                                        
+                        Album:              Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                        Artist(s):          Glee Cast
+                        Preview song:       https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Boulevard You
+                        Artist(s):          CaryLamb
+                        Preview song:       https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              NKOTBSB
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Nu Funk
+                        Artist(s):          Scary Pockets
+                        Preview song:       https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Cover Sessions, Vol. 2
+                        Artist(s):          Boyce Avenue
+                        Preview song:       https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Manuel Costa
+                        Preview song:       https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Selfies on Kodachrome
+                        Artist(s):          Scott Bradlee's Postmodern Jukebox
+                        Preview song:       https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Beautiful Dreams
+                        Artist(s):          Tyler and Mark
+                        Preview song:       https://p.scdn.co/mp3-preview/656b65ce55159249a06da90a98f70018f2fc92f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              The Essential "Weird Al" Yankovic
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Yshop
+                        Preview song:       https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Punk Goes Pop
+                        Artist(s):          Dynamite Boy
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Covers Part IV
+                        Artist(s):          Anthem Lights
+                        Preview song:       https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way - Reimagined                                        
+                        Album:              I Want It That Way (Reimagined)
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              The Hits--Chapter One
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Millennium
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Mick Jensen
+                        Preview song:       https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Covers Part IV
+                        Artist(s):          Anthem Lights
+                        Preview song:       https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Punk Goes Pop
+                        Artist(s):          Dynamite Boy
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              Poodle Hat
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              90 Sweet 90s Hits!
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Bye Bye Bye / I Want It That Way (Glee Cast Version)                                        
+                        Album:              Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                        Artist(s):          Glee Cast
+                        Preview song:       https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Boulevard You
+                        Artist(s):          CaryLamb
+                        Preview song:       https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              NKOTBSB
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Nu Funk
+                        Artist(s):          Scary Pockets
+                        Preview song:       https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Cover Sessions, Vol. 2
+                        Artist(s):          Boyce Avenue
+                        Preview song:       https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Manuel Costa
+                        Preview song:       https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Selfies on Kodachrome
+                        Artist(s):          Scott Bradlee's Postmodern Jukebox
+                        Preview song:       https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Beautiful Dreams
+                        Artist(s):          Tyler and Mark
+                        Preview song:       https://p.scdn.co/mp3-preview/656b65ce55159249a06da90a98f70018f2fc92f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              The Essential "Weird Al" Yankovic
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Yshop
+                        Preview song:       https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Steel Panther
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way - Reimagined                                        
+                        Album:              I Want It That Way (Reimagined)
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Under the Covers, Vol. 3
+                        Artist(s):          Jess and Gabriel
+                        Preview song:       https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  福岡国際センター                
+                Venue Location:     福岡市
+                Date of the Event:  2019-10-07T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ZENITH D'ORLEANS                
+                Venue Location:     Orleans
+                Date of the Event:  2019-10-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Arena Lille                
+                Venue Location:     Lille
+                Date of the Event:  2019-10-20T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Arkéa Arena                
+                Venue Location:     Floirac
+                Date of the Event:  2019-10-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Zenith Nantes Metropole                
+                Venue Location:     Saint-herblain
+                Date of the Event:  2019-10-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Halle Tony Garnier                
+                Venue Location:     Lyon
+                Date of the Event:  2019-10-25T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  丸善インテックアリーナ大阪（大阪市中央体育館）                
+                Venue Location:     大阪市
+                Date of the Event:  2019-10-15T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Le Summum                
+                Venue Location:     Grenoble
+                Date of the Event:  2019-10-28T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mercedes-Benz Arena                
+                Venue Location:     Berlin
+                Date of the Event:  2019-10-31T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Tauron Arena Krakow                
+                Venue Location:     Kraków
+                Date of the Event:  2019-11-02T18:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Daily's Place Amphitheater                
+                Venue Location:     Jacksonville
+                Date of the Event:  2019-11-08T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Seminole Hard Rock Hotel & Casino - Hollywood, FL                
+                Venue Location:     Hollywood
+                Date of the Event:  2019-11-09T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  AccorHotels Arena                
+                Venue Location:     Paris
+                Date of the Event:  2019-10-18T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-23T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-27T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-05-30T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-03T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-05T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-06-06T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-19T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-21T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-22T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Mark G Etess Arena at Hard Rock Hotel & Casino                
+                Venue Location:     Atlantic City
+                Date of the Event:  2019-11-15T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  ゼビオアリーナ仙台                
+                Venue Location:     仙台市
+                Date of the Event:  2019-10-12T19:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-29T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-09-02T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  Palais Nikaïa                
+                Venue Location:     Nice
+                Date of the Event:  2019-10-26T20:00:00
+
+                ***********************
+                
+                
+                
+                ******EVENT INFO******
+                
+                Name of the Venue:  THE COLOSSEUM AT CAESARS PALACE                
+                Venue Location:     Las Vegas
+                Date of the Event:  2020-08-28T20:00:00
+
+                ***********************
+                
+                
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump - 2015 Remaster                                        
+                        Album:              1984 (Remastered)
+                        Artist(s):          Van Halen
+                        Preview song:       https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Around                                        
+                        Album:              House of Pain (Fine Malt Lyrics)
+                        Artist(s):          House Of Pain
+                        Preview song:       https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out The Window                                        
+                        Album:              I Decided.
+                        Artist(s):          Big Sean
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Right In                                        
+                        Album:              Uncaged
+                        Artist(s):          Zac Brown Band
+                        Preview song:       https://p.scdn.co/mp3-preview/5d54255cf973098775921d0edb8cb1b731504d6e?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          The Jump Off                                        
+                        Album:              La Bella Mafia
+                        Artist(s):          Lil' Kim
+                        Preview song:       https://p.scdn.co/mp3-preview/933d54d4e3a98dd52db264deb1334ca7dbe06817?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead - From "Aladdin"/Soundtrack Version                                        
+                        Album:              Aladdin Special Edition
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Out the Face (feat. Future)                                        
+                        Album:              Dreams Worth More Than Money
+                        Artist(s):          Meek Mill
+                        Preview song:       https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              GO:OD AM
+                        Artist(s):          Mac Miller
+                        Preview song:       https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Brad Kane
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump Up, Super Star!                                        
+                        Album:              Jump Up, Super Star!
+                        Artist(s):          VGR
+                        Preview song:       https://p.scdn.co/mp3-preview/974243bb9f12f5a56c1c1a77e9f853ca44b0ac36?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (feat. Gizzle)                                        
+                        Album:              DROGAS Light
+                        Artist(s):          Lupe Fiasco
+                        Preview song:       https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          One Jump Ahead (Reprise 2)                                        
+                        Album:              Aladdin (Original Motion Picture Soundtrack)
+                        Artist(s):          Mena Massoud
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Fire! The Very Best of The Pointer Sisters
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/eec1e34e0c9c658541c2dd1063f8c0a3b0322ca2?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (For My Love)                                        
+                        Album:              Break Out
+                        Artist(s):          The Pointer Sisters
+                        Preview song:       https://p.scdn.co/mp3-preview/d572c4f54c6da296e93eef486b92fff470dd59e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Don't Jump                                        
+                        Album:              Don't Jump
+                        Artist(s):          Mike Stud
+                        Preview song:       https://p.scdn.co/mp3-preview/32d02175e9b3434d8b1e0674a55a426f62f5bcd5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump (with Trippie Redd)                                        
+                        Album:              Jump (with Trippie Redd)
+                        Artist(s):          Julia Michaels
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump in the Line                                        
+                        Album:              Jump Up Calypso
+                        Artist(s):          Harry Belafonte
+                        Preview song:       https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Jump                                        
+                        Album:              Totally Krossed Out
+                        Artist(s):          Kris Kross
+                        Preview song:       https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+            
+            **********MOVIE INFO*********
+            
+            Title:                      Rushmore
+            Release Year:               1998
+            IMDB Rating:                7.7 
+            Rotten Tomatoes Rating:     89%;                         
+            Country of Production:      USA
+            Language:                   English, Spanish, Latin, French
+            Actors:                     Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel
+            Plot:                       The extracurricular king of Rushmore Preparatory School is put on academic probation.
+
+            *****************************
+            
+            
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              The Hits--Chapter One
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Millennium
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Covers Part IV
+                        Artist(s):          Anthem Lights
+                        Preview song:       https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Mick Jensen
+                        Preview song:       https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Under the Covers, Vol. 3
+                        Artist(s):          Jess and Gabriel
+                        Preview song:       https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Steel Panther
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              90 Sweet 90s Hits!
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Bye Bye Bye / I Want It That Way (Glee Cast Version)                                        
+                        Album:              Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                        Artist(s):          Glee Cast
+                        Preview song:       https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Boulevard You
+                        Artist(s):          CaryLamb
+                        Preview song:       https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              NKOTBSB
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Nu Funk
+                        Artist(s):          Scary Pockets
+                        Preview song:       https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Cover Sessions, Vol. 2
+                        Artist(s):          Boyce Avenue
+                        Preview song:       https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Manuel Costa
+                        Preview song:       https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Selfies on Kodachrome
+                        Artist(s):          Scott Bradlee's Postmodern Jukebox
+                        Preview song:       https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Beautiful Dreams
+                        Artist(s):          Tyler and Mark
+                        Preview song:       https://p.scdn.co/mp3-preview/656b65ce55159249a06da90a98f70018f2fc92f0?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              The Essential "Weird Al" Yankovic
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              I Want It That Way
+                        Artist(s):          Yshop
+                        Preview song:       https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          Ebay (Parody of "I Want It That Way" by the Backstreet Boys)                                        
+                        Album:              Poodle Hat
+                        Artist(s):          "Weird Al" Yankovic
+                        Preview song:       https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way                                        
+                        Album:              Punk Goes Pop
+                        Artist(s):          Dynamite Boy
+                        Preview song:       null
+
+                        ***********************
+                
+                    
+                
+                        ******SONG INFO******
+                        
+                        Song name:          I Want It That Way - Reimagined                                        
+                        Album:              I Want It That Way (Reimagined)
+                        Artist(s):          Backstreet Boys
+                        Preview song:       https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=f5afc9495d4c4eebac68753b07a634cb
+
+                        ***********************
+                
+                    
