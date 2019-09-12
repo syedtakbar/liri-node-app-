@@ -20,7 +20,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 4. Once you selected the command the app will ask you to enter appropriate value for the selected command.
 5. Hit enter after entering value (for option 4 no need to enter any value)
 
-Please see the demo as follows:
+Please see the demo below:
 
 ![Results](./liri-bot-demo.gif)
     
